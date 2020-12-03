@@ -1,1 +1,0 @@
-<?php echo('El id es este: '.$id);?>
