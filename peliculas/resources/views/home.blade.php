@@ -4,4 +4,4 @@
 
     Pantalla principal
 
-@stop
+@stopz
